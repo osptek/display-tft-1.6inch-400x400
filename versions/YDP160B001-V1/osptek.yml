@@ -1,0 +1,10 @@
+id: YDP160B001-V1
+category: displays
+size: "1.6"
+panel: tft
+resolution: 400x400
+interface: [mipi]
+driver: ST7797
+touch: null
+outline: 42.14 x 44.24 x 1.96 mm
+active_area: "Φ39.84 mm"
